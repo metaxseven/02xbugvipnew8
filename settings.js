@@ -3,26 +3,26 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +15812798196
+//WhatsApp: +6287792700432
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "15812798196"
+global.ownernomer = "6287792700432"
 global.ownername = "DevilsAdvocate"
 global.ytname = "YT: DevilsAdvocate"
 global.socialm = "GitHub: DevilsAdvocate"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '15812798196'  //creator number
+global.ownernumber = '6287792700432'  //creator number
 global.ownername = 'DevilsAdvocate' //owner name
 global.botname = 'DevilsAdvocate ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'DevilsAdvocate\n\nContact: +15812798196'
+global.author = 'DevilsAdvocate\n\nContact: 6287792700432'
 
 //console view/theme
 global.themeemoji = '🪀'
